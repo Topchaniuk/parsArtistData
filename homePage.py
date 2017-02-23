@@ -1,0 +1,1 @@
+home_page = 'http://equipboard.com'
